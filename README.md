@@ -1,6 +1,6 @@
 # Stock_prices_prediction
 
-This project is a quick work which consists in simultaneously forecasting the prices of 3 stocks  on the french stock market for the 25 next trading days after October 16, 2020 :
+This project is a quick work which consists in simultaneously forecasting the prices of 3 stocks  on the french stock market for **the 25 next trading days after October 16, 2020 :**
 * **LVMH** : Moët Hennessy Louis Vuitton, World leader in luxury goods
 * **Peugeot** : French car manufacturer
 * **Mercialys** : expert in the management, transformation and enhancement of shopping centers
