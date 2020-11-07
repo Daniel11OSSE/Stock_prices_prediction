@@ -10,7 +10,7 @@ The prediction has been better estimated by a **Decision Tree Regressor**
 ## Model Building  
 
 I built the same two different models for each stock to predict their prices:
-*	**Multiple Linear Regression**
+*	**Linear Regression**
 *	**Decision Tree Regressor**
 
 ## Models performance 
